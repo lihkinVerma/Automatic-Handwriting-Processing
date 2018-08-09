@@ -1,5 +1,5 @@
 # Automatic-Handwriting-Processing
-Intelligent Handwriting Character Recognition is one of the field left very less touched and worked upon. Various OCR engines work for English language but that too not handwritten. The Aim to work on this project is to the processing of Handwritten images and extract something menaingful out of it. The stepwise approch used is quiet clear from the number system  used for various directories.
+Intelligent Handwriting Character Recognition is one of the field left very less touched and worked upon. Various OCR engines work for English language but that too not handwritten. The Aim to work on this project is to the processing of Handwritten images and extract something menaingful out of it. The stepwise approch used is quiet clear from the number system  used for various directories:-
 
 1. line-word segmentation from any given input image 
 2. character segmentation from any gven input image
